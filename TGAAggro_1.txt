@@ -1,0 +1,26 @@
+Name: TGAAggro
+Key Card: 3478
+Sort Index: 0
+
+// DeckList
+
+1 Cupimon   EX6-003 
+3 Cupimon   EX6-003_P1 
+2 Pillomon   BT9-033 
+4 Patamon   BT14-033 
+4 Luxmon   EX6-017 
+3 Angemon   BT14-102 
+4 Gatomon   BT15-037 
+2 Angemon   EX6-019 
+1 Airdramon   BT19-032 
+4 MagnaAngemon   BT16-024 
+1 Angewomon   EX6-022 
+4 Angewomon   BT15-038 
+1 Etemon   EX5-048 
+4 Dominimon   EX6-030 
+4 Cherubimon   EX6-035 
+2 ShadowSeraphimon   BT18-071 
+4 T.K.Takaishi   BT1-087 
+1 T.K.Takaishi   BT14-084 
+4 YellowMemoryBoost!   P-037 
+1 Yellow Scramble   LM-029 

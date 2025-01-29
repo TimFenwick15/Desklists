@@ -1,0 +1,31 @@
+Name: TGAControl
+Key Card: 2641
+Sort Index: 0
+
+// DeckList
+
+1 Cupimon   EX6-003 
+3 Cupimon   EX6-003_P1 
+2 Pillomon   BT9-033 
+4 Patamon   BT14-033 
+2 Salamon   BT15-034 
+2 Luxmon   BT18-032 
+3 Angemon   BT14-102 
+4 Gatomon   BT15-037 
+2 Angemon   EX6-019 
+1 Airdramon   BT19-032 
+4 MagnaAngemon   BT16-024 
+2 MagnaAngemon   BT14-037 
+3 Angewomon   BT15-038 
+1 Etemon   EX5-048 
+1 Venusmon   BT10-042_P2 
+1 Seraphimon   BT14-041 
+4 Dominimon   EX6-030 
+2 Cherubimon   EX6-035 
+2 ShadowSeraphimon   BT18-071 
+1 ShineGreymon:RuinMode   EX4-074 
+2 T.K.Takaishi   BT1-087 
+1 T.K.Takaishi   BT14-084 
+3 YellowMemoryBoost!   P-037 
+1 PhysicalTraining   P-105 
+2 EmissaryofHope   BT14-093 
