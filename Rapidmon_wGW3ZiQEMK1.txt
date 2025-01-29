@@ -1,0 +1,25 @@
+Name: Rapidmon
+Key Card: -1
+Sort Index: 0
+
+// DeckList
+
+1 Nyaromon   EX5-003 
+4 Gummymon   ST17-01 
+2 Calumon   EX2-045_P1 
+1 Terriermon   BT3-046 
+4 Terriermon   BT8-046 
+2 Terriermon   EX4-032 
+4 Terriermon   ST17-02 
+2 Lopmon   ST17-03 
+3 Terriermon (X Antibody)   BT16-038 
+4 Rapidmon   BT8-039 
+4 Rapidmon   ST17-06 
+1 Gargomon   BT17-046 
+4 Rapidmon   ST17-07_P1 
+4 Rapidmon (X Antibody)   BT16-101 
+2 MegaGargomon   ST17-08_P1 
+2 MimiTachikawa   BT1-089 
+4 Willis   BT8-091 
+3 DoubleTyphoon   ST17-11 
+4 AgilityTraining   P-106 

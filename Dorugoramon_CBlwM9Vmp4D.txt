@@ -1,0 +1,28 @@
+Name: Dorugoramon
+Key Card: 3382
+Sort Index: 0
+
+// DeckList
+
+4 Dorimon   BT7-005 
+2 Chikurimon   ST13-08 
+4 Dorumon   BT16-051 
+1 Agumon   BT17-052 
+3 Dorumon   BT17-062 
+1 Tyrannomon   BT15-011 
+2 Sephirothmon   BT12-065 
+4 Dorugamon   BT16-058 
+2 Airdramon   BT15-059 
+2 DexDorugamon   BT17-065 
+3 Megadramon   BT15-064 
+4 DoruGreymon   BT16-061 
+1 MegaGargomon   ST17-08_P2 
+4 Dorugoramon   BT16-064 
+3 DexDorugoramon   BT17-073 
+1 ShineGreymon:RuinMode   EX4-074 
+3 Kosuke Kisakata   BT16-087 
+3 Marvin Jackson   BT15-086 
+1 EijiNagasumi   BT14-087 
+4 DefenseTraining   P-107 
+1 CallingFromtheDarkness   BT7-107 
+1 X Antibody Proto Form   EX5-070_P2 
