@@ -1,15 +1,15 @@
 Name: ThreeGreatAngel
-Key Card: 2641
+Key Card: -1
 Sort Index: 0
 
 // DeckList
 
-4 Tokomon   BT14-003 
-1 Cupimon   EX6-003 
+4 Cupimon   EX6-003 
 2 Pillomon   BT9-033 
 4 Patamon   BT14-033 
 2 Salamon   BT15-034 
-2 Luxmon   EX6-017 
+2 Luxmon   BT18-032 
+1 Patamon   P-122 
 3 Angemon   BT14-102 
 4 Gatomon   BT15-037 
 2 Angemon   EX6-019 
@@ -18,15 +18,14 @@ Sort Index: 0
 1 MagnaAngemon   BT14-037 
 4 Angewomon   BT15-038 
 1 Etemon   EX5-048 
-1 Seraphimon   BT14-041 
+2 Seraphimon   BT14-041 
 3 Dominimon   EX6-030 
-1 Magnadramon   BT15-042 
-1 Seraphimon   EX6-028 
 3 Cherubimon   EX6-035 
 1 ShadowSeraphimon   BT18-071 
-1 ShineGreymon:RuinMode   EX4-074 
 2 T.K.Takaishi   BT1-087 
+1 T.K. Takaishi & Kari Kamiya   EX6-063_P1 
 1 T.K.Takaishi   BT14-084 
 3 YellowMemoryBoost!   P-037 
-2 PhysicalTraining   P-105 
+1 Yellow Scramble   LM-029 
+1 PhysicalTraining   P-105 
 2 EmissaryofHope   BT14-093 
