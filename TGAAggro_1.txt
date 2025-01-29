@@ -9,10 +9,9 @@ Sort Index: 0
 2 Pillomon   BT9-033 
 4 Patamon   BT14-033 
 4 Luxmon   EX6-017 
-3 Angemon   BT14-102 
+4 Angemon   BT14-102 
 4 Gatomon   BT15-037 
-2 Angemon   EX6-019 
-1 Airdramon   BT19-032 
+2 Airdramon   BT19-032 
 4 MagnaAngemon   BT16-024 
 1 Angewomon   EX6-022 
 4 Angewomon   BT15-038 

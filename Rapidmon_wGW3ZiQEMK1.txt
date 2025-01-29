@@ -1,5 +1,5 @@
 Name: Rapidmon
-Key Card: -1
+Key Card: 3429
 Sort Index: 0
 
 // DeckList
