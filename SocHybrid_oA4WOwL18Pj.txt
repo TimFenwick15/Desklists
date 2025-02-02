@@ -1,0 +1,20 @@
+Name: SocHybrid
+Key Card: -1
+Sort Index: 0
+
+// DeckList
+
+4 Ukkomon   BT16-082 
+4 Sephirothmon   BT12-065 
+4 Sephirothmon   BT18-066 
+4 Mercurymon   BT12-066 
+4 Beetlemon   BT18-063 
+4 Mercurymon   BT18-064 
+4 RhinoKabuterimon   BT18-070 
+4 DoruGreymon   BT16-061 
+4 Dorugoramon   BT16-064_P0 
+4 ShadowSeraphimon   BT18-071 
+3 DexDorugoramon   BT17-073 
+4 J.P. Shibayama   BT18-091 
+4 Marvin Jackson   BT15-086 
+4 BlackMemoryBoost!   P-039 
