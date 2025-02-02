@@ -17,7 +17,8 @@ Sort Index: 0
 4 Angewomon   BT15-038 
 1 Etemon   EX5-048 
 4 Dominimon   EX6-030 
-4 Cherubimon   EX6-035 
+1 Ophanimon   EX6-027 
+3 Cherubimon   EX6-035 
 2 ShadowSeraphimon   BT18-071 
 4 T.K.Takaishi   BT1-087 
 1 T.K.Takaishi   BT14-084 

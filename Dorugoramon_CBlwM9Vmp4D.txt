@@ -7,7 +7,8 @@ Sort Index: 0
 4 Dorimon   BT7-005 
 2 Chikurimon   ST13-08 
 4 Dorumon   BT16-051 
-4 Agumon   BT17-052 
+1 Dorumon   BT7-056 
+3 Agumon   BT17-052 
 2 Sephirothmon   BT12-065 
 4 Dorugamon   BT16-058 
 3 Airdramon   BT15-059 
@@ -16,8 +17,8 @@ Sort Index: 0
 2 Megadramon   BT15-064 
 4 DoruGreymon   BT16-061 
 1 Cyberdramon   LM-025 
+1 MetalSeadramon   EX8-026 
 4 Dorugoramon   BT16-064 
-1 ShadowSeraphimon   BT18-071 
 3 DexDorugoramon   BT17-073 
 4 Kosuke Kisakata   BT16-087 
 3 Marvin Jackson   BT15-086 
