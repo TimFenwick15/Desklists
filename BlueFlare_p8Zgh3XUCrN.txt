@@ -10,16 +10,14 @@ Sort Index: 0
 4 Gaossmon   BT19-016 
 3 Ukkomon   BT16-082 
 3 MailBirdramon   BT10-021 
-3 MailBirdramon   EX4-018 
+4 MailBirdramon   EX4-018 
 3 Greymon   BT19-020 
-1 MailBirdramon   BT19-022 
 4 Greymon   BT10-019 
-2 MetalGreymon   BT10-024 
-1 MetalGreymon   EX4-020 
+3 MetalGreymon   BT10-024 
 4 MetalGreymon   BT19-025 
-1 Ryugumon   BT19-027 
+2 Ryugumon   BT19-027 
 2 ZeigGreymon   BT11-031 
-3 ZeigGreymon   BT19-026 
+2 ZeigGreymon   BT19-026 
 3 KirihaAonuma   BT10-088 
 1 KirihaAonuma&NeneAmano   EX4-062 
 4 Kiriha Aonuma   BT19-081 
