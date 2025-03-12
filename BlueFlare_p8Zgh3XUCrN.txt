@@ -1,13 +1,13 @@
 Name: BlueFlare
-Key Card: 3985
+Key Card: 3718
 Sort Index: 0
 
 // DeckList
 
 4 Wanyamon   BT11-002 
 3 Gaossmon   BT10-018 
-1 Gaossmon   EX4-014 
 4 Gaossmon   BT19-016 
+2 Spadamon   EX6-037 
 3 Ukkomon   BT16-082 
 3 MailBirdramon   BT10-021 
 4 MailBirdramon   EX4-018 
@@ -15,9 +15,8 @@ Sort Index: 0
 4 Greymon   BT10-019 
 3 MetalGreymon   BT10-024 
 4 MetalGreymon   BT19-025 
-2 Ryugumon   BT19-027 
-2 ZeigGreymon   BT11-031 
-2 ZeigGreymon   BT19-026 
+2 Hexeblaumon   EX7-023 
+3 ZeigGreymon   BT11-031 
 3 KirihaAonuma   BT10-088 
 1 KirihaAonuma&NeneAmano   EX4-062 
 4 Kiriha Aonuma   BT19-081 
