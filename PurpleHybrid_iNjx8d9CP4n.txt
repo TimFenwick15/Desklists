@@ -4,17 +4,16 @@ Sort Index: 0
 
 // DeckList
 
-3 DemiMeramon   BT3-006 
-2 Cupimon   BT16-006 
+2 DemiMeramon   BT3-006 
+3 Cupimon   BT16-006 
 1 Guilmon   EX4-006 
-1 Psychemon   BT8-071 
-2 Gazimon   BT3-077 
+2 Psychemon   BT8-071 
+1 Gazimon   BT3-077 
 2 Gabumon   ST16-03 
 2 Syakomon   EX8-056 
 4 Ukkomon   BT16-082 
-1 Ukkomon   P-123 
+1 Ukkomon   P-123_P3 
 4 Velgrmon   BT18-079 
-1 GinkakumonPromote   BT6-075 
 1 KaiserLeomon   BT7-073 
 4 Duskmon   BT18-078 
 1 Argomon   BT17-048 
@@ -25,9 +24,8 @@ Sort Index: 0
 2 Koichi Kimura   BT18-094 
 4 KoichiKimura   BT7-091 
 1 Lui Ohwada   P-130 
-2 Rivals'Barrage   ST14-12 
-2 DeathSlinger   EX2-071 
-1 MistMemoryBoost!   BT8-108 
+4 Rivals'Barrage   ST14-12 
+2 MistMemoryBoost!   BT8-108 
 3 PurpleMemoryBoost!   P-040 
 1 CallingFromtheDarkness   BT7-107 
 3 JackRaid   BT4-111 
