@@ -5,21 +5,21 @@ Sort Index: 0
 // DeckList
 
 4 Wanyamon   BT11-002 
-3 Gaossmon   BT10-018 
+1 Jellymon   LM-002 
 4 Gaossmon   BT19-016 
 2 Spadamon   EX6-037 
-3 Ukkomon   BT16-082 
+4 Ukkomon   BT16-082 
+1 Ukkomon   P-123_P3 
 3 MailBirdramon   BT10-021 
 4 MailBirdramon   EX4-018 
 3 Greymon   BT19-020 
 4 Greymon   BT10-019 
 2 MetalGreymon   BT10-024 
 4 MetalGreymon   BT19-025 
-1 Ryugumon   BT19-027 
 3 ZeigGreymon   BT11-031 
 1 Omnimon (X Antibody)   BT20-102 
+2 Gabumon - Bond of Friendship   LM-022 
 3 KirihaAonuma   BT10-088 
 1 KirihaAonuma&NeneAmano   EX4-062 
 4 Kiriha Aonuma   BT19-081 
 4 BlazingMemoryBoost!   BT10-097-Errata 
-1 Blue Scramble   LM-028 
