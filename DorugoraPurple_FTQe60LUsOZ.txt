@@ -1,0 +1,27 @@
+Name: DorugoraPurple
+Key Card: 2641
+Sort Index: 0
+
+// DeckList
+
+4 Bowmon   BT17-006 
+4 Loogamon   BT14-071 
+4 Loogamon   BT20-064 
+2 Tyrannomon   BT15-011 
+4 Dorugamon   BT16-058 
+1 DexDorugamon   BT9-075 
+2 DexDorugamon   BT17-065 
+1 DoruGreymon   BT7-064 
+4 DoruGreymon   BT16-061 
+2 Helloogarmon   BT14-078 
+4 Dorugoramon   BT16-064 
+3 DexDorugoramon   BT17-073 
+1 ShineGreymon:RuinMode   EX4-074 
+1 YujiMusya   BT8-092 
+2 Cracker Fang   BT17-091 
+2 Code Cracker Fang & Hacker Judge   BT20-089 
+3 EijiNagasumi   BT14-087 
+2 AnalogYouth   EX1-066 
+3 PurpleMemoryBoost!   P-040 
+4 WisdomTraining   P-108 
+1 CallingFromtheDarkness   BT7-107 
