@@ -1,0 +1,30 @@
+Name: AdventureAgu
+Key Card: 5272
+Sort Index: 0
+
+// DeckList
+
+4 Tsunomon   ST21-01 
+4 Biyomon   ST20-02 
+2 Gomamon   ST21-02 
+4 Agumon   ST20-10 
+4 Birdramon   ST20-03 
+2 Ikkakumon   ST21-03 
+2 Togemon   ST21-08 
+1 Garurumon   BT21-067 
+1 Garudamon   ST20-04 
+2 Zudomon   ST21-04 
+2 Angewomon   ST20-06 
+2 Lillymon   ST21-09 
+1 MetalGreymon   BT21-061 
+2 WereGarurumon   BT21-078 
+1 WarGreymon   P-182 
+4 WarGreymon   ST20-11 
+1 MetalGarurumon   ST21-11 
+2 Sora Takenouchi & Kari Kamiya   ST20-12 
+3 Joe Kido & Mimi Tachikawa   ST21-12 
+1 Tai Kamiya & Izzy Izumi   ST20-13 
+2 Matt Ishida & T.K. Takaishi   ST21-13 
+2 Tai Kamiya   BT21-102 
+3 Our Courage United   ST20-14 
+2 Believe in Our Friendship   ST21-14 
